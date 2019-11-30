@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎查看行星人脸识别考勤系统的介绍
 
 You can use the [editor on GitHub](https://github.com/geneedyou/geneedyou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
